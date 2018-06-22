@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ingredients
 
 	2 Tbs. olive oil
@@ -15,3 +16,23 @@ Preparation
 	1. Heat oil in medium saucepan over medium heat. Add onion, and sauté 5 minutes, or until soft and translucent. Stir in tomato paste, garlic, and sugar, and cook 1 minute, or until tomato paste darkens. Stir in diced tomatoes, bouillon cube (if using), balsamic vinegar, thyme, and 4 cups water. Cover pan, bring soup to a boil, then reduce heat to medium-low, and simmer, covered, 15 minutes.
 
 	2. Remove from heat, and blend soup with immersion blender or in blender or food processor until smooth. Season with salt and pepper, if desired.
+||||||| merged common ancestors
+=======
+Ingredients
+
+	2 Tbs. olive oil
+	1 medium onion, chopped (11/2 cups)
+	1 Tbs. tomato paste
+	2 cloves garlic, minced (2 tsp.)
+	1 tsp. sugar
+	1 15-oz. can diced tomatoes
+	1 vegetable bouillon cube, optional
+	2 tsp. balsamic vinegar
+	1/2 tsp. dried thyme
+
+Preparation
+	
+	1. Heat oil in medium saucepan over medium heat. Add onion, and sauté 5 minutes, or until soft and translucent. Stir in tomato paste, garlic, and sugar, and cook 1 minute, or until tomato paste darkens. Stir in diced tomatoes, bouillon cube (if using), balsamic vinegar, thyme, and 4 cups water. Cover pan, bring soup to a boil, then reduce heat to medium-low, and simmer, covered, 15 minutes.
+
+	2. Remove from heat, and blend soup with immersion blender or in blender or food processor until smooth. Season with salt and pepper, if desired.
+>>>>>>> 10a6633812ca57bdb19d21e7fb15d6bc3caa8c1a
